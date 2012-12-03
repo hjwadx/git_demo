@@ -7,5 +7,9 @@ function hello() {
 
 //guy 2
 function two() {
+  //guy 1 was here
+}
+
+function three() {
   
 }
